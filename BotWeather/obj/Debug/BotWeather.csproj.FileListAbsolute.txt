@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\BotWeather\BotWeather\bin\Debug\BotWeather.exe.config
+C:\Users\User\Desktop\BotWeather\BotWeather\bin\Debug\BotWeather.exe
+C:\Users\User\Desktop\BotWeather\BotWeather\bin\Debug\BotWeather.pdb
+C:\Users\User\Desktop\BotWeather\BotWeather\obj\Debug\BotWeather.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BotWeather\BotWeather\obj\Debug\BotWeather.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BotWeather\BotWeather\obj\Debug\BotWeather.exe
+C:\Users\User\Desktop\BotWeather\BotWeather\obj\Debug\BotWeather.pdb
+C:\Users\User\Desktop\BotWeather\BotWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BotWeather\BotWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\BotWeather\BotWeather\obj\Debug\BotWeather.csproj.CopyComplete
